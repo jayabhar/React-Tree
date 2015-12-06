@@ -5,7 +5,7 @@
 
 1. Clone this repository
 
-1. On the command line, navigate (cd) to the **Corousel-Native** folder
+1. On the command line, navigate (cd) to the **React-Tree** folder
 
 1. Install the server dependencies
 
