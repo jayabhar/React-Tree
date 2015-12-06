@@ -25,3 +25,5 @@
   ```
 
 1. Open a browser and access: [http://localhost:5000](http://localhost:5000)
+
+Link to Image: [https://cloud.githubusercontent.com/assets/13553586/11614869/62be96ae-9c75-11e5-8e6c-e68e5b100c8f.png]
